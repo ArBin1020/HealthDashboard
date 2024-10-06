@@ -1,0 +1,7 @@
+Pipfile
+Pipfile.lock
+secret.py
+migration
+__pycache__
+*.docx
+*.sqlite3
